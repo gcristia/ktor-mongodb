@@ -1,2 +1,2 @@
-# ktor-mongodb
+# Ktor + Mongodb
 Ktor + MongoDB
