@@ -127,7 +127,7 @@ fabric.properties
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
-# Package Files #
+ Package Files #
 *.jar
 *.war
 *.nar
@@ -142,4 +142,11 @@ replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains,kotlin
 
+# Jetbrains
 .idea
+
+# Gradle
+.gradle
+
+# Build
+build
